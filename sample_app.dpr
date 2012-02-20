@@ -5,9 +5,9 @@ program sample_app;
 {%File 'Gemfile'}
 {%File 'README.rdoc'}
 {%File 'config\database.yml'}
-{%File 'config\routes.rb'}
+{%File 'config\routes.rb'}                                        
 {%File 'app\controllers\pages_controller.rb'}
-{%File 'app\views\pages\home.html.erb'}
+{%File 'app\views\pages\help.html.erb'}
 {%File 'app\views\pages\about.html.erb'}
 {%File 'app\views\pages\contact.html.erb'}
 
